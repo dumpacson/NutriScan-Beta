@@ -32,7 +32,22 @@ NutriScan is a mobile app developed to guide everyday shoppers in making informe
 
 ## Screens
 
+![Home](https://github.com/dumpacson/NutriScan-Beta/blob/07fbdeaa938dea98350b79b823faea22892d5589/images/Home.png "Home") ![Search Products](https://github.com/dumpacson/NutriScan-Beta/blob/07fbdeaa938dea98350b79b823faea22892d5589/images/Search%20Products.png "Search Products") ![Categories](https://github.com/dumpacson/NutriScan-Beta/blob/07fbdeaa938dea98350b79b823faea22892d5589/images/Categories.png "Categories")
+
 ![Home](https://github.com/dumpacson/NutriScan-Beta/blob/9767ca6f8b260ca566a2c7028de2ebe1ad95341f/images/IMG_8984.jpg "Home") ![Settings](https://github.com/dumpacson/NutriScan-Beta/blob/3fa37d3614de6535ff72219d0b83cce5d33e3d7a/images/IMG_8984%20(1).png "Settings") ![Product Detail](https://github.com/dumpacson/NutriScan-Beta/blob/f4810be26a8c1a5fcd12852fda35dfcb62ee2d01/images/IMG_8989.PNG "Product Detail")
 
+![Home](https://github.com/dumpacson/NutriScan-Beta/blob/9767ca6f8b260ca566a2c7028de2ebe1ad95341f/images/IMG_8984.jpg "Home") ![Settings](https://github.com/dumpacson/NutriScan-Beta/blob/3fa37d3614de6535ff72219d0b83cce5d33e3d7a/images/IMG_8984%20(1).png "Settings") ![Product Detail](https://github.com/dumpacson/NutriScan-Beta/blob/f4810be26a8c1a5fcd12852fda35dfcb62ee2d01/images/IMG_8989.PNG "Product Detail")
+
+![Home](https://github.com/dumpacson/NutriScan-Beta/blob/9767ca6f8b260ca566a2c7028de2ebe1ad95341f/images/IMG_8984.jpg "Home") ![Settings](https://github.com/dumpacson/NutriScan-Beta/blob/3fa37d3614de6535ff72219d0b83cce5d33e3d7a/images/IMG_8984%20(1).png "Settings") ![Product Detail](https://github.com/dumpacson/NutriScan-Beta/blob/f4810be26a8c1a5fcd12852fda35dfcb62ee2d01/images/IMG_8989.PNG "Product Detail")
+
+![Home](https://github.com/dumpacson/NutriScan-Beta/blob/9767ca6f8b260ca566a2c7028de2ebe1ad95341f/images/IMG_8984.jpg "Home") ![Settings](https://github.com/dumpacson/NutriScan-Beta/blob/3fa37d3614de6535ff72219d0b83cce5d33e3d7a/images/IMG_8984%20(1).png "Settings") ![Product Detail](https://github.com/dumpacson/NutriScan-Beta/blob/f4810be26a8c1a5fcd12852fda35dfcb62ee2d01/images/IMG_8989.PNG "Product Detail")
+
+![Home](https://github.com/dumpacson/NutriScan-Beta/blob/9767ca6f8b260ca566a2c7028de2ebe1ad95341f/images/IMG_8984.jpg "Home") ![Settings](https://github.com/dumpacson/NutriScan-Beta/blob/3fa37d3614de6535ff72219d0b83cce5d33e3d7a/images/IMG_8984%20(1).png "Settings") ![Product Detail](https://github.com/dumpacson/NutriScan-Beta/blob/f4810be26a8c1a5fcd12852fda35dfcb62ee2d01/images/IMG_8989.PNG "Product Detail")
+
+![Home](https://github.com/dumpacson/NutriScan-Beta/blob/9767ca6f8b260ca566a2c7028de2ebe1ad95341f/images/IMG_8984.jpg "Home") ![Settings](https://github.com/dumpacson/NutriScan-Beta/blob/3fa37d3614de6535ff72219d0b83cce5d33e3d7a/images/IMG_8984%20(1).png "Settings") ![Product Detail](https://github.com/dumpacson/NutriScan-Beta/blob/f4810be26a8c1a5fcd12852fda35dfcb62ee2d01/images/IMG_8989.PNG "Product Detail")
+
+![Home](https://github.com/dumpacson/NutriScan-Beta/blob/9767ca6f8b260ca566a2c7028de2ebe1ad95341f/images/IMG_8984.jpg "Home") ![Settings](https://github.com/dumpacson/NutriScan-Beta/blob/3fa37d3614de6535ff72219d0b83cce5d33e3d7a/images/IMG_8984%20(1).png "Settings") ![Product Detail](https://github.com/dumpacson/NutriScan-Beta/blob/f4810be26a8c1a5fcd12852fda35dfcb62ee2d01/images/IMG_8989.PNG "Product Detail")
+
+![Home](https://github.com/dumpacson/NutriScan-Beta/blob/9767ca6f8b260ca566a2c7028de2ebe1ad95341f/images/IMG_8984.jpg "Home") ![Settings](https://github.com/dumpacson/NutriScan-Beta/blob/3fa37d3614de6535ff72219d0b83cce5d33e3d7a/images/IMG_8984%20(1).png "Settings") ![Product Detail](https://github.com/dumpacson/NutriScan-Beta/blob/f4810be26a8c1a5fcd12852fda35dfcb62ee2d01/images/IMG_8989.PNG "Product Detail")
 
 <br></br>
