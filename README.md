@@ -10,13 +10,7 @@
 
 - [Objectives](#objectives)
 
-- [Features & Functionalities](#features--functionalities)
-  
-- [Screen Navigation (Routing) & Widgets (UI & Reusable)](#screen-navigation-routing--widgets-ui--reusable)
-
-- [Sequence Diagram](#sequence-diagram)
-
-- [References](#references)
+- [Screens](#screens)
   
 
 ## Abstract
@@ -38,15 +32,7 @@ NutriScan is a mobile app developed to guide everyday shoppers in making informe
 
 ## Screens
 
-![Sitemap](https://github.com/dumpacson/OLFA/blob/0057734db075b3db4f3c5fa436edc7d315b36fa5/images/OLFA%20Sitemap.png)
-
-
-
-## Sequence Diagram
-
-![Sequence Diagram](https://github.com/dumpacson/OLFA/blob/7544a66c58ec93b40866fdf844f6d3bc4d9b3d41/images/Blank%20diagram%20(13).png)
-
-
+![Settings]([images/IMG_8988.PNG](https://github.com/dumpacson/NutriScan-Beta/blob/d9ecc27018d4b0c1990cd84b3ef8e783dee43040/images/IMG_8988.PNG) "Settings") ![Product Detail]([image2.png](https://github.com/dumpacson/NutriScan-Beta/blob/d9ecc27018d4b0c1990cd84b3ef8e783dee43040/images/IMG_8989.PNG) "Product Detail")
 
 
 <br></br>
