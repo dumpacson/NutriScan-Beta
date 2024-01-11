@@ -32,7 +32,7 @@ NutriScan is a mobile app developed to guide everyday shoppers in making informe
 
 ## Screens
 
-![Settings]([images/IMG_8988.PNG](https://github.com/dumpacson/NutriScan-Beta/blob/d9ecc27018d4b0c1990cd84b3ef8e783dee43040/images/IMG_8988.PNG) "Settings") ![Product Detail]([image2.png](https://github.com/dumpacson/NutriScan-Beta/blob/d9ecc27018d4b0c1990cd84b3ef8e783dee43040/images/IMG_8989.PNG) "Product Detail")
+![Settings](https://github.com/dumpacson/NutriScan-Beta/blob/d9ecc27018d4b0c1990cd84b3ef8e783dee43040/images/IMG_8988.PNG "Settings") ![Product Detail](https://github.com/dumpacson/NutriScan-Beta/blob/d9ecc27018d4b0c1990cd84b3ef8e783dee43040/images/IMG_8989.PNG "Product Detail")
 
 
 <br></br>
