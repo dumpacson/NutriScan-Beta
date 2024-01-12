@@ -11,6 +11,8 @@
 
 - [Objectives](#objectives)
 
+- [Entity Relationship](#entity-relationship)
+
 - [Screens](#screens)
 <br></br>
   
@@ -33,6 +35,11 @@ NutriScan is a **Flutter & Firebase** mobile app developed to guide everyday sho
 - Offer a detailed breakdown of the product's **nutritional facts** and also alert users about products that may **conflict with their dietary preferences.** 
 - Assist users in making **informed choices** to support their dietary goals and overall well-being.
 <br></br>
+
+
+## Entity Relationship
+
+![Entity Relationship](https://github.com/dumpacson/nutriscan-beta/blob/c1dc494f4d6f62093d9d11fa516b46b5141ff890/images/UML%20class.png "Entity Relationship")
 
 
 ## Screens
