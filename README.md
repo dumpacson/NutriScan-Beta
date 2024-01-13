@@ -1,6 +1,7 @@
 # NutriScan-Beta
   
 #### IIUM INNOVATEX FYP COMPETITION - MOBILE DEVELOPMENT CATEGORY 1ST PLACE AWARD
+#### A Dart, Flutter & Firebase Mobile Application
 <br></br>
 
  
